@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BusinessObject
+build_property.ProjectDir = E:\PRN211\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\BusinessObject\

@@ -1,0 +1,11 @@
+E:\PRN211\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\bin\Debug\net5.0\DataValidation.deps.json
+E:\PRN211\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\bin\Debug\net5.0\DataValidation.dll
+E:\PRN211\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\bin\Debug\net5.0\DataValidation.pdb
+E:\PRN211\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfoInputs.cache
+E:\PRN211\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfo.cs
+E:\PRN211\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.csproj.CoreCompileInputs.cache
+E:\PRN211\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.dll
+E:\PRN211\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\refint\DataValidation.dll
+E:\PRN211\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.pdb
+E:\PRN211\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\ref\DataValidation.dll
